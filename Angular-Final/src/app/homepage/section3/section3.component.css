@@ -1,0 +1,110 @@
+.tech-card .logo {
+  text-align: center;
+  max-height: 100px;
+}
+
+.start-now {
+  padding-top: 30px;
+  background: #f6f9fa;
+  border-top: 1px solid #e9f0f3;
+}
+
+.tech-card p {
+  opacity: 0.6;
+  font-weight: 300;
+}
+
+.tech-card h5 {
+  font-weight: 500;
+}
+
+.homepage .start-now .card-list {
+  margin-bottom: 4%;
+}
+
+user agent stylesheet div {
+  display: block;
+}
+
+body {
+  font-size: 1.5em;
+  line-height: 1.6;
+  font-weight: 400;
+  font-family: "Lato", Helvetica, Arial, sans-serif;
+  color: #222;
+  margin: 0px !important;
+}
+
+html {
+  font-size: 62.5%;
+}
+
+html {
+  color: -internal-root-color;
+}
+
+
+.container:after,
+.row:after,
+.u-cf {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+.container {
+  position: relative;
+  width: 100%;
+  padding: 0 20px;
+  max-width: 1400px;
+  margin: 0 auto;
+  box-sizing: border-box;
+}
+
+.ribbon-outer {
+  position: relative;
+  overflow: hidden;
+}
+
+
+.column,
+.columns {
+  width: 100%;
+  float: left;
+  box-sizing: border-box;
+}
+
+.tech-card {
+  display: block;
+  text-decoration: none;
+  color: #000;
+  background: #fff;
+  padding: 15px;
+  border-radius: 2px;
+  border: 1px solid #e9f0f3;
+  text-align: center;
+  -webkit-transition: 0.2s;
+  transition: 0.2s;
+  cursor: pointer;
+}
+
+a {
+  color: #41a3ff;
+  text-decoration: none;
+}
+
+.start-now .card-list {
+  margin-bottom: 4%;
+}
+
+user agent stylesheet a:-webkit-any-link {
+  color: -webkit-link;
+  cursor: pointer;
+  text-decoration: underline;
+}
+
+div.row.card-list {
+  color: #222222;
+  font-family: 15px Lato, Helvetica, Arial, sans-serif;
+  margin: 0px 0px 33.475px;
+}

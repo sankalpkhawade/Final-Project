@@ -1,0 +1,8 @@
+.section1 {
+  background: linear-gradient(to bottom, #dd2476, #ff512f);
+}
+
+h1,
+h5 {
+  padding: 5vmin;
+}
